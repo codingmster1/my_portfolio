@@ -129,7 +129,7 @@ export default function Header() {
       </motion.div>
 
       <h1 className="header--name">
-        <TextWriting controls={controls} text={"David Bragg"} noblink />
+        <TextWriting controls={controls} text={"Jeff Doyle"} noblink />
         <br />
         <TextWriting controls={controls} delay={1.65} text={"Frontend"} noblink />{" "}
         <motion.div initial="hidden" animate={controls} variants={nameVariants} className="header--name--sec">
