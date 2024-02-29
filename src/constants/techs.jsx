@@ -5,7 +5,8 @@ import tsIcon from "../assets/Icon/Tech/ts.svg";
 import reactIcon from "../assets/Icon/Tech/react.svg";
 import reduxIcon from "../assets/Icon/Tech/redux.svg";
 import firebaseIcon from "../assets/Icon/Tech/firebase.svg";
-import sassIcon from "../assets/Icon/Tech/sass.svg";
+import tailwindIcon from "../assets/Icon/Tech/tailwind-green.jpeg";
+import webpack from "../assets/Icon/Tech/webpack-icon.png";
 
 const techs = [
     {
@@ -51,10 +52,16 @@ const techs = [
         "Platform developed by Google for creating mobile and web applications.",
     },
     {
-      title: "Sass",
-      icon: sassIcon,
+      title: "TailWind",
+      icon: tailwindIcon,
       detail:
-        "Preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets (CSS)",
+        "A utility-first CSS framework for rapid UI development.",
+    },
+    {
+      title: "Webpack",
+      icon: webpack,
+      detail:
+        "A module bundler. Its main purpose is to bundle JavaScript files for usage in a browser.",
     },
   ];
 
