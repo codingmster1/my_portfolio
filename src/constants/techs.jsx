@@ -7,6 +7,7 @@ import reduxIcon from "../assets/Icon/Tech/redux.svg";
 import firebaseIcon from "../assets/Icon/Tech/firebase.svg";
 import tailwindIcon from "../assets/Icon/Tech/tailwind-green.jpeg";
 import webpack from "../assets/Icon/Tech/webpack-icon.png";
+import nextjs from "../assets/Icon/Tech/nextjs-circle.jpeg";
 
 const techs = [
     {
@@ -62,6 +63,12 @@ const techs = [
       icon: webpack,
       detail:
         "A module bundler. Its main purpose is to bundle JavaScript files for usage in a browser.",
+    },
+    {
+      title: "NextJS",
+      icon: nextjs,
+      detail:
+        "React framework for building full-stack web applications.",
     },
   ];
 
