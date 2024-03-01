@@ -5,7 +5,7 @@ import tsIcon from "../assets/Icon/Tech/ts.svg";
 import reactIcon from "../assets/Icon/Tech/react.svg";
 import reduxIcon from "../assets/Icon/Tech/redux.svg";
 import firebaseIcon from "../assets/Icon/Tech/firebase.svg";
-import tailwindIcon from "../assets/Icon/Tech/tailwind-green.jpeg";
+import tailwindIcon from "../assets/Icon/Tech/tailwind_css.png";
 import webpack from "../assets/Icon/Tech/webpack-icon.png";
 import nextjs from "../assets/Icon/Tech/nextjs-circle.jpeg";
 
