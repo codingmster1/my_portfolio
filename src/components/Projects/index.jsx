@@ -10,6 +10,8 @@ import { useInView } from "react-intersection-observer"
 import work1 from "../../assets/Images/work1.png"
 import work2 from "../../assets/Images/work2.png"
 import work3 from "../../assets/Images/work3.png"
+import summar from "../../assets/Images/summarist-clip.gif";
+import anime from "../../assets/Images/anime-clip.gif";
 
 export default function Projects() {
   const controls = useAnimation()
@@ -29,18 +31,18 @@ export default function Projects() {
 
   const works = [
     {
-      client: "preezie",
-      year: "2023",
-      img: work1,
-      title: "Building from the ground up",
-      detail: "Working at a startup brought the opportunity to bring many projects from their early days of development to a fully fledged application, I've had the opportunity to be a core part of multiple projects at preezie.",
+      client: "Internship Project",
+      year: "2024",
+      img: summar,
+      title: "Summarist",
+      detail: "Being enrolled in my internship taught me important back-end skills to add dynamic features to full stack websites. This site lets you sign in, sign up, and sign out and make psuedo payments thru stripe and firebase.",
     },
     {
-      client: "Frontend Simplified",
-      year: "2022",
-      img: work2,
-      title: "Mentoring the next generation of junior programmers",
-      detail: "Empowering students with the knowledge and skills they need to succeed in the dynamic field of programming. Having tutored 100's of students within the Frontend simplified curriculum, this gives me a great inspiration to lead.",
+      client: "Anime Search Website",
+      year: "2023",
+      img: anime,
+      title: "AniList",
+      detail: "As part of my bootcamp enrollment, I was asked, by my instructors, to build a vanilla crunchyroll clone that fetched anime series/movies by a single API.",
     },
     {
       client: "Personal project",

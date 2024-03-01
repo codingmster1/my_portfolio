@@ -64,7 +64,7 @@ export default function About() {
 
         <motion.div initial="hidden" animate={controls} variants={opacityVariant} transition={{ duration: 1, delay: 2 }} onAnimationComplete={() => handleComplete()} className="about--detail">
           <p className="theme--detail--dark">
-            <ScrambleText delay={2}>I work on challenging engineering problems every day in a team consisting of some of the most talented and experienced software engineers. Continuously working towards improving myself, my knowledge, and skills, to develop technologies that contribute to the betterment of society.</ScrambleText>
+            <ScrambleText delay={2}>I work on challenging engineering problems every day - all while - continuously working towards improving myself, my knowledge, and skills, to develop technologies that contribute to the betterment of society.</ScrambleText>
           </p>
         </motion.div>
 

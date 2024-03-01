@@ -36,6 +36,7 @@
 .projects--grid--content--heading h2 .sec {
   color: var(--main);
   font-family: var(--NMR-I);
+  font-size: 30px;
 }
 
 .projects--grid--title {

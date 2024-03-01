@@ -98,7 +98,7 @@ export default function Header() {
           </h3>
           <p className="theme--detail">
             <ScrambleText shuffle delay={4}>
-              Hello, I’m Jeff, I tackle complex engineering challenges daily, alongside a team of elite software engineers. My mission is to continuously advance in web development, using my growing expertise to drive societal progress through technology.
+              Hello, I’m Jeff, I tackle complex engineering challenges daily as I pursue my mission to continuously advance in web development, using my growing expertise to drive societal progress through technology.
             </ScrambleText>
           </p>
         </div>
