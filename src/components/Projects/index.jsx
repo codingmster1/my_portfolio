@@ -13,6 +13,9 @@ import work3 from "../../assets/Images/work3.png"
 import summar from "../../assets/Images/summarist-clip.gif";
 import anime from "../../assets/Images/anime-clip.gif";
 import book from  "../../assets/Images/library-1.gif";
+import twitter from "../../assets/Images/twitter.gif";
+import berserk from "../../assets/Images/memorycard.gif";
+import zelda from "../../assets/Images/zelda-weather.gif";
 
 export default function Projects() {
   const controls = useAnimation()
@@ -49,8 +52,29 @@ export default function Projects() {
       client: "E-commerence",
       year: "2023",
       img: book,
-      title: "Banned Books",
+      title: "Library",
       detail: "A fun little personal project. A website containing banned/mature rated books with a working cart feature.",
+    },
+    {
+      client: "Social Media Clone",
+      year: "2023",
+      img: twitter,
+      title: "Twitter",
+      detail: "Twitter clone, now known as X, in a video game/Zelda style format.",
+    },
+    {
+      client: "Game Project",
+      year: "2023",
+      img: berserk,
+      title: "Memory Card",
+      detail: "Memory card game inspired by the berserk anime series.",
+    },
+    {
+      client: "Zelda Themed Weather App",
+      year: "2023",
+      img: zelda,
+      title: "Weather App",
+      detail: "Weather app that changes the background based on the weather condition with each condition having a gif from the Zelda video game series.",
     },
   ]
 
