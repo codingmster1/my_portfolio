@@ -11,7 +11,7 @@ import ScrambleText from "../ScrambleText"
 import ResumeCard from "../ResumeCard"
 
 // assets
-import ProfilePic from "../../assets/Images/Profile pic.jpg"
+import ProfilePic from "../../assets/Images/profilepic.jpg"
 import Icon from "../Icon"
 import githubIcon from "../../assets/Icon/github.svg"
 import linkedinIcon from "../../assets/Icon/linkedin.svg"
@@ -60,19 +60,19 @@ export default function Resume() {
           <div className="resume--grid--detail--data">
             <div className="resume--grid--detail--data--name">
               <h2>
-                <ParaWriting stagger={0.08} text={"David Bragg"} />
+                <ParaWriting stagger={0.08} text={"Jeff Doyle"} />
               </h2>
               <h4>
                 <ScrambleText delay={0}>Software Engineer</ScrambleText>
               </h4>
               <motion.div initial="hidden" animate={controls} variants={blurVariants} transition={{ duration: 1, delay: 0.5 }} onAnimationComplete={() => handleComplete()} className="resume--grid--detail--data--name--icons">
-                <a href="https://github.com/DavidBragg" target="_blank" rel="noreferrer">
+                <a href="https://github.com/codingmster1" target="_blank" rel="noreferrer">
                   <Icon img={githubIcon} />
                 </a>
-                <a href="https://www.linkedin.com/in/Davideff/" target="_blank" rel="noreferrer">
+                <a href="https://www.linkedin.com/in/jeff-doyle23/" target="_blank" rel="noreferrer">
                   <Icon img={linkedinIcon} />
                 </a>
-                <a href="./DavidBragg-resume-2023.pdf">
+                <a href="/">
                   <Icon img={fileIcon} />
                 </a>
               </motion.div>
