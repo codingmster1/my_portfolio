@@ -12,6 +12,7 @@ import work2 from "../../assets/Images/work2.png"
 import work3 from "../../assets/Images/work3.png"
 import summar from "../../assets/Images/summarist-clip.gif";
 import anime from "../../assets/Images/anime-clip.gif";
+import book from  "../../assets/Images/library-1.gif";
 
 export default function Projects() {
   const controls = useAnimation()
@@ -45,11 +46,11 @@ export default function Projects() {
       detail: "As part of my bootcamp enrollment, I was asked, by my instructors, to build a vanilla crunchyroll clone that fetched anime series/movies by a single API.",
     },
     {
-      client: "Personal project",
+      client: "E-commerence",
       year: "2023",
-      img: work3,
-      title: "WoWdle - the daily world of warcraft guessing game",
-      detail: "Having over 100,000+ users in the first month, this tested my ability to scale and succeed. A small WoW based game mixed in with elements of wordle. Check it out on wowdle.app",
+      img: book,
+      title: "Banned Books",
+      detail: "A fun little personal project. A website containing banned/mature rated books with a working cart feature.",
     },
   ]
 
