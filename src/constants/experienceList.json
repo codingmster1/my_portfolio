@@ -1,24 +1,17 @@
 [
   {
-    "company": "preezie",
-    "role": "Software Developer (Frontend)",
+    "company": "Front-End Simplified Bootcamp",
+    "role": "Student",
     "resps": [
-      "Developed a scalable web widget for 900,000 users, amplifying user satisfaction while ensuring seamless maintenance.",
-      "Revamped CI/CD pipelines through Bitbucket Pipelines and Azure Devops, slashing deployment time and enhancing agility.",
-      "Showcased expertise in diverse development areas, fostering a versatile and adaptable workforce.",
-      "Led innovative proof of concepts, driving continuous product improvement.",
-      "Steered the rapid transformation of a CMS into a production-ready application within a 3-month timeline.",
-      "Provided pivotal support for client deployments, enabling the business to gain value rapidly.",
-      "Architected a backend system to continuously monitor the uptime of all user interfaces, ensuring optimal performance.",
-      "Streamlined widget implementation by condensing it into a single-line code snippet, enhancing accessibility and ease of integration.",
-      "Revamped 15+ landing pages within a two-week timeframe in anticipation of investor discussion.",
-      "Revitalized and modernized legacy code into a new, customer-centric UI that received great feedback from our customer success team, enhancing user experience and satisfaction.",
-      "Recognized for accelerated growth and proactive leadership, advancing to further levels of software development.",
-      "Demonstrated adeptness in spearheading projects, selecting optimal tech stacks, and consistently delivering project outcomes.",
-      "Recognized as the company’s ‘Values Champion of 2022’ for embodying an unwavering commitment to the business, supporting reliably and being dependable.",
-      "Partook in an Open-AI proof of concept for a product recommendation quiz, mostly working on the frontend."
+      "Developed front-end websites as part of the course curriculum which sharpened my UI and critical thinking skills with development",
+      "Learned back-end frame works, such as firebase, and developed full stack websites that store user data and payments",
+      "Showcased expertise in UI implementation towards full stack websites such as my twitter clone, in which I added a completely unique layout vs its original well-known appearance",
+      "Mastered React and Next JS alongside advanced css concepts and frameworks such as tailwind",
+      "Was able, as part of my courses's final project, to build a full stack website that integrated stripe payments and firebase authentication",
+      "Used expertise in my creative skills to add unique touches to the front-end UI of every website I created",
+      "Showed unwavering dedication to the bootcamp by constanting asking questions and using problem solving to get ahead and debug websites"
     ],
-    "date": "Aug 2021 - Current"
+    "date": "May 2023 - Current"
   },
   {
     "company": "Frontend Simplified",
