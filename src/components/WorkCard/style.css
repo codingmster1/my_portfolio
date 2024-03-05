@@ -66,8 +66,8 @@
 }
 
 .workCard--body img {
-  width: 420px;
-  height: 420px;
+  width: 500px;
+  height: 440px;
   aspect-ratio: square;
   object-fit: cover;
   filter: grayscale(100%);

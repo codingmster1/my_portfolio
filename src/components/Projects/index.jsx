@@ -12,7 +12,7 @@ import work2 from "../../assets/Images/work2.png"
 import work3 from "../../assets/Images/work3.png"
 import summar from "../../assets/Images/summarist-clip.gif";
 import anime from "../../assets/Images/anime-clip.gif";
-import book from  "../../assets/Images/library-1.gif";
+import book from  "../../assets/Images/library-update.gif";
 import twitter from "../../assets/Images/twitter.gif";
 import berserk from "../../assets/Images/memorycard.gif";
 import zelda from "../../assets/Images/zelda-weather.gif";
