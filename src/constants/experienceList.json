@@ -1,30 +1,36 @@
 [
   {
     "company": "Front-End Simplified Internship",
-    "role": "Student",
+    "role": "Front-End Simplified",
     "resps": [
       "Transformed a completely static HTML, CSS, JS, AND REACT single page application into an interactive user interface using animations, transitions, and carousels",
       "Processed API requests with Axios to dynamically represent data from a cloud server alongside pagination, skeleton loading states, and dynamic routing",
       "Used back-end frame works, such as firebase, and developed full stack websites that store user data and payments",
       "Showcased expertise in advanced UI design towards full stack websites",
+      "Utilized Git Version control, and the Git interface, to work and thrive in a collaborative team and work enviroment",
       "Used my expertise, with my creative skills, to add unique touches to the front-end UI of every website I created"
     ],
-    "date": "May 2023 - Current"
+    "date": "September 2023 - February 2024"
   },
   {
-    "company": "The Odin Project",
-    "role": "Student",
+    "company": "Freelace Developer",
+    "role": "Self-employed",
     "resps": [
-      "Covered the basics of GIT, HTML, CSS, JS, and the Command Line from July 2022 - December 2022",
-      "After basics I moved onto the advanced concepts and frameworks such as React and NodeJs",
-      "Put in 30 hours+ a week diving into many different projects combining the trinity of coding languages",
-      "Touched base with numerous frameworks and integrated artistic ability towards every project I've built",
-      "Gained understanding of GIT commands for installing packages such as 'npx' and 'npm'",
-      "Learned how to integrate GIT into my workspace within VScode and use various module bundlers such as webpack",
-      "Given a sharper mental toolset with a different way of looking at website problems and how to fix them",
-      "I took git deployment to the next level with webpack/Node based projects and learned how to deploy to a secondary branch(gh-pages)",
-      "Used Linux within my virtual machine to make my windows system compatible with a unix based coding enviroment"
+      "Created professional websites with HTML, CSS(css frameworks such as TailWind), Javascript, React, NextJS, Webpack, Node, and Firebase",
+      "Improved website performance by compressing, caching and integrating lazy loading images and components",
+      "Included SEO, responsive, multiplatform and hosting support, enabling the users website to be used by any browser or device in the world"
     ],
-    "date": "July 2022 - Current"
+    "date": "July 2023 - Current"
+  },
+  {
+    "company": "Developer Support",
+    "role": "Front-End Simplified",
+    "resps": [
+      "Supported and assisted many students towards using best practices with HTML, CSS, JS, and React",
+      "Utilized debugging with Google Chrome's dev tools to assist in fixing errors and testing websites",
+      "Assited in student's deployment errors in vercel and github pages",
+      "Simplified difficult programming concepts within responsive website development, CSS layout and responsiveness, promises and API requests"
+    ],
+    "date": "October 2023 - Current"
   }
 ]
