@@ -1,16 +1,13 @@
 [
   {
-    "company": "Front-End Simplified Bootcamp",
+    "company": "Front-End Simplified Internship",
     "role": "Student",
     "resps": [
-      "Developed front-end websites as part of the course curriculum which sharpened my UI and critical thinking skills with development",
-      "Learned back-end frame works, such as firebase, and developed full stack websites that store user data and payments",
-      "Showcased expertise in UI implementation towards full stack websites such as my twitter clone, in which I added a completely unique layout vs its original well-known appearance",
-      "Mastered React and Next JS alongside advanced css concepts and frameworks such as tailwind",
-      "Was able, as part of my courses's final project, to build a full stack website that integrated stripe payments and firebase authentication",
-      "Used expertise in my creative skills to add unique touches to the front-end UI of every website I created",
-      "Integrated Vercel and Github, all while, making use of the terminal within Linux and VScode to deploy and install needed packages and creating different branches for each feature of a website",
-      "Showed unwavering dedication to the bootcamp by constanting asking questions and using problem solving to get ahead and debug websites"
+      "Transformed a completely static HTML, CSS, JS, AND REACT single page application into an interactive user interface using animations, transitions, and carousels",
+      "Processed API requests with Axios to dynamically represent data from a cloud server alongside pagination, skeleton loading states, and dynamic routing",
+      "Used back-end frame works, such as firebase, and developed full stack websites that store user data and payments",
+      "Showcased expertise in advanced UI design towards full stack websites",
+      "Used my expertise, with my creative skills, to add unique touches to the front-end UI of every website I created"
     ],
     "date": "May 2023 - Current"
   },
