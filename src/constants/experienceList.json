@@ -25,6 +25,7 @@
       "Gained understanding of GIT commands for installing packages such as 'npx' and 'npm'",
       "Learned how to integrate GIT into my workspace within VScode and use various module bundlers such as webpack",
       "Given a sharper mental toolset with a different way of looking at website problems and how to fix them",
+      "I took git deployment to the next level with webpack/Node based projects and learned how to deploy to a secondary branch(gh-pages)",
       "Used Linux within my virtual machine to make my windows system compatible with a unix based coding enviroment"
     ],
     "date": "July 2022 - Current"
