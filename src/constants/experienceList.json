@@ -15,20 +15,18 @@
     "date": "May 2023 - Current"
   },
   {
-    "company": "Frontend Simplified",
-    "role": "Programming mentor & Tutor",
+    "company": "The Odin Project",
+    "role": "Student",
     "resps": [
-      "Designed and implemented personalized learning plans tailored to each student's skill level and learning style.",
-      "Conducted weekly coding workshops to cover advanced topics and industry best practices in Frontend development.",
-      "Provided constructive feedback and code reviews to help students improve their coding skills and address areas of improvement.",
-      "Created and curated a comprehensive set of educational resources, including coding exercises, projects, and documentation, to support the learning process.",
-      "Collaborated with other mentors to develop and refine the curriculum, ensuring it stays current with the latest trends and technologies in Frontend development.",
-      "Organized and participated in regular one-on-one mentoring sessions to address individual student challenges and provide additional guidance.",
-      "Facilitated group discussions and coding challenges to promote a collaborative and engaging learning environment.",
-      "Stayed updated on industry advancements and emerging technologies to incorporate relevant and cutting-edge content into the curriculum.",
-      "Initiated and managed community-building activities, fostering a sense of camaraderie among students and promoting a positive learning culture.",
-      "Monitored and tracked the progress of each student, celebrating milestones and proactively addressing any obstacles to ensure a successful learning journey."
+      "Covered the basics of GIT, HTML, CSS, JS, and the Command Line from July 2022 - December 2022",
+      "After basics I moved onto the advanced concepts and frameworks such as React and NodeJs",
+      "Put in 30 hours+ a week diving into many different projects combining the trinity of coding languages",
+      "Touched base with numerous frameworks and integrated artistic ability towards every project I've built",
+      "Gained understanding of GIT commands for installing packages such as 'npx' and 'npm'",
+      "Learned how to integrate GIT into my workspace within VScode and use various module bundlers such as webpack",
+      "Given a sharper mental toolset with a different way of looking at website problems and how to fix them",
+      "Used Linux within my virtual machine to make my windows system compatible with a unix based coding enviroment"
     ],
-    "date": "Aug 2021 - Dec 2022"
+    "date": "July 2022 - Current"
   }
 ]
