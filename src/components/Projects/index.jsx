@@ -7,15 +7,13 @@ import ParaWriting from "../ParaWriting"
 import { motion, useAnimation } from "framer-motion"
 import { useInView } from "react-intersection-observer"
 
-import work1 from "../../assets/Images/work1.png"
-import work2 from "../../assets/Images/work2.png"
-import work3 from "../../assets/Images/work3.png"
-import summar from "../../assets/Images/summarist-clip.gif";
-import anime from "../../assets/Images/anime-clip.gif";
-import book from  "../../assets/Images/library-update.gif";
-import twitter from "../../assets/Images/Twitter_edit.gif";
-import berserk from "../../assets/Images/memorycard.gif";
-import zelda from "../../assets/Images/weather-appedit.gif";
+
+import summar from "../../assets/Images/adv-internship.png";
+import anime from "../../assets/Images/anime-edit.png";
+import book from  "../../assets/Images/library-edit.png";
+import twitter from "../../assets/Images/twitter.png";
+import berserk from "../../assets/Images/berserk-game.png";
+import zelda from "../../assets/Images/weather-1.png";
 
 export default function Projects() {
   const controls = useAnimation()
