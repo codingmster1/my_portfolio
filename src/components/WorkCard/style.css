@@ -34,6 +34,7 @@
   margin: 0 auto;
   width: auto;
   height: 500px;
+ 
 }
 
 .workCard--body p {
@@ -66,8 +67,8 @@
 }
 
 .workCard--body img {
-  width: 500px;
-  height: 440px;
+  width: 60%;
+  height: 540px;
   aspect-ratio: square;
   object-fit: cover;
   filter: grayscale(100%);

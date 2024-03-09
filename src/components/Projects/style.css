@@ -13,8 +13,11 @@
 .projects--grid {
   flex-grow: 1;
   display: grid;
-  grid-template-columns: 1fr 1fr 7fr 2fr;
-  grid-template-areas: "title . content detail";
+  grid-template-columns: 4fr;
+  grid-template-areas:  
+  "title"
+  "detail"
+  "content";
   margin-bottom: 180px;
 }
 
@@ -41,6 +44,7 @@
 
 .projects--grid--title {
   grid-area: title;
+  padding-left: 40px;
 }
 
 .projects--grid--detail {

@@ -9,11 +9,11 @@ import { useInView } from "react-intersection-observer"
 
 
 import summar from "../../assets/Images/adv-internship.png";
-import anime from "../../assets/Images/anime-edit.png";
-import book from  "../../assets/Images/library-edit.png";
+import anime from "../../assets/Images/anime-screenshot.png";
+import book from  "../../assets/Images/banned-books.png";
 import twitter from "../../assets/Images/twitter.png";
-import berserk from "../../assets/Images/berserk-game.png";
-import zelda from "../../assets/Images/weather-1.png";
+import berserk from "../../assets/Images/memory-game.png";
+import zelda from "../../assets/Images/zelda-site.png";
 
 export default function Projects() {
   const controls = useAnimation()
