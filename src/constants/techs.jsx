@@ -11,13 +11,13 @@ import nextjs from "../assets/Icon/Tech/nextjs-circle.jpeg";
 
 const techs = [
     {
-      title: "HTML 5",
+      title: "HTML",
       icon: htmlIcon,
       detail:
         "Hypertext Markup Language, used for structuring and presenting content on the World Wide Web.",
     },
     {
-      title: "CSS 3",
+      title: "CSS",
       icon: cssIcon,
       detail:
         "Cascading Style Sheets, used for describing the look and formatting of a document written in HTML.",
