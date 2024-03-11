@@ -33,7 +33,7 @@
   display: block;
   margin: 0 auto;
   width: 80%;
-  height: auto;
+  height: 60%;
   padding: 20px 0;
  
 }
@@ -68,10 +68,9 @@
 }
 
 .workCard--body img {
-  width: 50%;
-  height: 540px;
-  aspect-ratio: square;
-  object-fit: cover;
+  width: 60%;
+  height: auto;
+  /*aspect-ratio: square;*/
   filter: grayscale(100%);
   filter: brightness(50%);
 }
@@ -82,9 +81,6 @@
   }
   .workCard--body p {
     font-size: 15px;
-  }
-  .workCard--body img {
-    height: 420px;
   }
 }
 
