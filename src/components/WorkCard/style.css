@@ -32,15 +32,16 @@
 .workCard--body img {
   display: block;
   margin: 0 auto;
-  width: auto;
-  height: 500px;
+  width: 80%;
+  height: auto;
+  padding: 20px 0;
  
 }
 
 .workCard--body p {
   position: absolute;
   right: 0px;
-  bottom: 50px;
+  bottom: -65px;
   color: #fff;
   font-size: 18px;
   font-family: var(--NML);
@@ -67,7 +68,7 @@
 }
 
 .workCard--body img {
-  width: 60%;
+  width: 50%;
   height: 540px;
   aspect-ratio: square;
   object-fit: cover;

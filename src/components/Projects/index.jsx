@@ -37,14 +37,14 @@ export default function Projects() {
       year: "2024",
       img: summar,
       title: "Summarist",
-      detail: "Being enrolled in my internship taught me important back-end skills to add dynamic features to full stack websites. This site lets you sign in, sign up, and sign out and make psuedo payments thru stripe and firebase.",
+      detail: "A full stack audio book application. This site lets you sign in, sign up, and sign out and make psuedo payments thru stripe and firebase.",
     },
     {
       client: "Anime Search Website",
       year: "2023",
       img: anime,
       title: "AniList",
-      detail: "As part of my bootcamp enrollment, I was asked, by my instructors, to build a vanilla crunchyroll clone that fetched anime series/movies by a single API.",
+      detail: "A vanilla crunchyroll clone that fetched anime series/movies by a single API.",
     },
     {
       client: "E-commerence",
@@ -90,11 +90,11 @@ export default function Projects() {
         <motion.div initial="hidden" animate={controls} variants={opacityVariant} transition={{ duration: 1, delay: 0.5 }} className="projects--grid--title">
           <h3 className="theme--text">
             <ScrambleText shuffle delay={0.5}>
-              03
+              04
             </ScrambleText>{" "}
             <span className="hash">{"//"}</span>{" "}
             <ScrambleText shuffle delay={0.5}>
-              Expertise
+              Projects
             </ScrambleText>
           </h3>
         </motion.div>
@@ -121,7 +121,7 @@ export default function Projects() {
 
         <motion.div initial="hidden" animate={controls} variants={opacityVariant} transition={{ duration: 1, delay: 1 }} onAnimationComplete={() => handleComplete()} className="projects--grid--detail">
           <p className="theme--detail">
-            <ScrambleText delay={1}>Discover a curated portfolio of projects where each line of code tells a story of problem-solving, creativity, and technical finesse.</ScrambleText>
+            {/*<ScrambleText delay={1}>A curated portfolio of projects where each line of code tells a story of problem-solving, creativity, and technical finesse.</ScrambleText>*/}
           </p>
         </motion.div>
       </div>

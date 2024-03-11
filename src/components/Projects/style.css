@@ -1,6 +1,7 @@
 .projects {
-  min-height: 100vh;
-  padding: 60px 102px;
+  min-height: 50vh;
+  padding: 20px;
+  padding-top: 90px;
   background-color: var(--dark);
   position: relative;
   padding-top: 180px;
@@ -13,12 +14,13 @@
 .projects--grid {
   flex-grow: 1;
   display: grid;
-  grid-template-columns: 4fr;
+  grid-template-columns: 1fr;
   grid-template-areas:  
   "title"
   "detail"
   "content";
-  margin-bottom: 180px;
+  margin-bottom: 40px;
+  gap: 50px;
 }
 
 .projects--grid--content {
@@ -50,6 +52,7 @@
 .projects--grid--detail {
   grid-area: detail;
   padding-left: 20%;
+  font-size:5px;
 }
 
 .background--glow {
@@ -96,7 +99,7 @@
     height: fit-content;
   }
 
-  .projects--grid {
+ /* .projects--grid {
     flex-grow: 1;
     display: grid;
     grid-template-columns: 1fr;
@@ -106,7 +109,7 @@
       "content";
     gap: 30px;
     margin-bottom: 50px;
-  }
+  }*/
 
   .projects--grid--detail {
     padding-left: 0%;
