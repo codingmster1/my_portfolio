@@ -72,7 +72,7 @@ export default function Resume() {
                 <a href="https://www.linkedin.com/in/jeff-doyle23/" target="_blank" rel="noreferrer">
                   <Icon img={linkedinIcon} />
                 </a>
-                <a href="zenfarhat-resume-2023.pdf" target="_blank">
+                <a href="zenfarhat-resume-2023.pdf/" target="_blank">
                   <Icon img={fileIcon} />
                 </a>
               </motion.div>
