@@ -17,6 +17,7 @@ import githubIcon from "../../assets/Icon/github.svg"
 import linkedinIcon from "../../assets/Icon/linkedin.svg"
 import fileIcon from "../../assets/Icon/file.svg"
 
+
 // jsons
 import technicalSkills from "../../constants/technicalSkills.json"
 import technicalSkills2 from "../../constants/technicalSkills2.json"
@@ -72,7 +73,7 @@ export default function Resume() {
                 <a href="https://www.linkedin.com/in/jeff-doyle23/" target="_blank" rel="noreferrer">
                   <Icon img={linkedinIcon} />
                 </a>
-                <a href="zenfarhat-resume-2023.pdf/" target="_blank">
+                <a href="./Certificate.pdf" target="_blank">
                   <Icon img={fileIcon} />
                 </a>
               </motion.div>
