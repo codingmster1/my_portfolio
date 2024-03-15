@@ -73,7 +73,7 @@ export default function Resume() {
                 <a href="https://www.linkedin.com/in/jeff-doyle23/" target="_blank" rel="noreferrer">
                   <Icon img={linkedinIcon} />
                 </a>
-                <a href="../Certificate.pdf" target="_blank" rel="noopener noreferrer" download>
+                <a href="../Certificate.pdf" target="_blank" rel="noopener noreferrer">
                   <Icon img={fileIcon} />
                 </a>
               </motion.div>
