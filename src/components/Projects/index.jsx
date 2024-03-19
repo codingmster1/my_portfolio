@@ -38,6 +38,7 @@ export default function Projects() {
       img: summar,
       title: "Summarist",
       detail: "A full stack audio book application. This site lets you sign in, sign up, and sign out and make psuedo payments thru stripe and firebase.",
+      
     },
     {
       client: "Anime Search Website",

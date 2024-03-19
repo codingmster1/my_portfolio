@@ -60,6 +60,7 @@ export default function TechCard({ item }) {
         <h1>
           <HideText controls={controls} delay={delay}>
             {item.title}
+            
           </HideText>
         </h1>
         <p>
