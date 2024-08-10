@@ -13,7 +13,7 @@ import anime from "../../assets/Images/anime-screenshot.png";
 import book from  "../../assets/Images/banned-books.png";
 import twitter from "../../assets/Images/twitter.png";
 import berserk from "../../assets/Images/memory-game.png";
-import zelda from "../../assets/Images/zelda-site.png";
+import pokemon from "../../assets/Images/rayquaza.png";
 
 export default function Projects() {
   const controls = useAnimation()
@@ -69,11 +69,11 @@ export default function Projects() {
       detail: "Memory card game inspired by the berserk anime series.",
     },
     {
-      client: "Zelda Themed Weather App",
-      year: "2023",
-      img: zelda,
-      title: "Weather App",
-      detail: "Weather app that changes the background based on the weather condition with each condition having a gif from the Zelda video game series.",
+      client: "Full Stack Pokedex",
+      year: "2024",
+      img: pokemon,
+      title: "Pokedex",
+      detail: "A full stack pokedex application. This site lets you sign in, sign out, and create a personal list and compare stats and locations. All while fetching data from a single API with evolution data.",
     },
   ]
 
