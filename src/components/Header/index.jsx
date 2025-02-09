@@ -131,7 +131,7 @@ export default function Header() {
       <h1 className="header--name">
         <TextWriting controls={controls} text={"Jeff Doyle"} noblink />
         <br />
-        <TextWriting controls={controls} delay={1.65} text={"Frontend"} noblink />{" "}
+        <TextWriting controls={controls} delay={1.65} text={"FullStack"} noblink />{" "}
         <motion.div initial="hidden" animate={controls} variants={nameVariants} className="header--name--sec">
           <TextWriting controls={controls} delay={2.85} text={"Developer"} noblink />
           <div className="header--name--border">
